@@ -1,0 +1,13 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+.content{
+    height: 155px;
+    width: 1445px;
+    padding: 15px 10px;
+    border: 4px dotted aqua;
+    border-radius: 10px;
+    margin: 15px 15px;
+    
+}
